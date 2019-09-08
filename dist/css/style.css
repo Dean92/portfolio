@@ -221,30 +221,12 @@ body {
     overflow: hidden;
 }
 
- /* .items .icons {
-    position: absolute;
-    width: 90px;
-    height: 20px;
-    left: 50%;
-    top: 50%;
-    margin: -20px auto 0 -47px;
-    text-align: center;
-    z-index: 3;
-}  */
 
 .items .icons i {
     color:#ce1126;
     font-size: 15px;
     margin-top: 10px;
 } 
-
-/* .items a {
-    width: 40px;
-    height: 40px;
-    background-color: #ce1126;
-    position: relative;
-    display: inline-block;
-} */
 
 
 .thumbnail {
