@@ -200,3 +200,53 @@ body {
     padding-bottom: 48px;
     width: 100%
 }
+
+.items li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.items li img {
+    width: 40%;
+}
+
+.itemsContainer {
+    width: 100%;
+}
+
+
+.items .item {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+ .items .icons {
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    left: 50%;
+    top: 50%;
+    margin: -20px auto 0 -47px;
+    text-align: center;
+    z-index: 3;
+} 
+
+.items .icons i {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 9px;
+}
+
+.items a {
+    width: 40px;
+    height: 40px;
+    background-color: #ce1126;
+    position: relative;
+    display: inline-block;
+}
+
+
+.thumbnail {
+    height: 100px;
+} 
