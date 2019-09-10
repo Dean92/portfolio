@@ -273,3 +273,35 @@ body {
 .copyrightSection p {
     margin: 0;
 }
+
+#navigation {
+    background-color: #ce1126;
+    padding: 20px 10px;
+    z-index: 100;
+    width: 100%;
+}
+
+#navigation li {
+    padding: 0 10px;
+
+}
+
+#navigation li a {
+    color: #fff;
+}
+
+
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+#bars {
+   background-size: 100%;
+   color: #fff;
+}
+
+.fixedNav #navigation {
+    position: fixed;
+    top: 0;
+}
